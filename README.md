@@ -11,6 +11,11 @@ This project aims to create a comprehensive set of test cases for GitHub reposit
 
 The Criteria for creating testcases are below
 
+Certainly, here's the section you provided formatted in plain text for inclusion in your README file:
+
+---
+
+```
 {
     "rules" : {
         /*
@@ -44,6 +49,10 @@ The Criteria for creating testcases are below
         "maxTimeToResolveIssue" : 24 // The max time (in hours) from when an issue is opened until it is closed (the assignee is the user to flag if this is violated)
     }
 }
+```
+
+---
+
 
 
 ## Installation
