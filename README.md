@@ -9,9 +9,7 @@
 
 This project aims to create a comprehensive set of test cases for GitHub repositories, covering both ideal and non-ideal behaviors. By generating random sample data that adheres to specified rules as well as data that violates these rules, the project assesses the effectiveness and accuracy of the "detection-of-ideal-behaviours-with-low-impact-in-github-repositories" tool. This tool evaluates various scenarios within GitHub repositories to ensure their functionality, reliability, and security.
 
-The Criteria for creating testcases are below
-
-Certainly, here's the section you provided formatted in plain text for inclusion in your README file:
+The Criteria for creating testcases based on the following rules are below
 
 ---
 
